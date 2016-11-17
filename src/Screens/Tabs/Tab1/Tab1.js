@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { View, Text } from 'react-native';
 import { Actions } from 'react-native-router-flux';
-import { Card, Button } from '../../../Components';
+import { Card, Button, AnimButton } from '../../../Components';
 
 class Tab1 extends Component {
     render() {
@@ -10,6 +10,7 @@ class Tab1 extends Component {
                 <Card>
                     <Button onPress={() => Actions.ModalError()} title="Modal" style={{padding: 5}} />
                      <Button onPress={() => Actions.error()} title="Error" />
+                     <AnimButton>SQUISH</AnimButton>
                 </Card>
 
             </View>

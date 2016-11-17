@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-import { View, Text, AsyncStorage } from 'react-native';
+import { View, Text } from 'react-native';
 import { CheckBox } from 'react-native-elements';
-import { Actions, ActionConst } from 'react-native-router-flux';
-import { Input, Button, Card, AnimButton, Spinner } from '../../Components/';
+import { Actions } from 'react-native-router-flux';
+import { Input, Button, Card, Spinner } from '../../Components/';
 
 class Login extends Component {
     constructor(props) {
