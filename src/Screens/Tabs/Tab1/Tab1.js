@@ -11,6 +11,7 @@ class Tab1 extends Component {
                     <Button onPress={() => Actions.ModalError()} title="Modal" style={{padding: 5}} />
                      <Button onPress={() => Actions.error()} title="Error" />
                      <AnimButton>SQUISH</AnimButton>
+                     <Text onPress={() => Actions.Tab1_1()}>Go to Tab 1_1</Text>
                 </Card>
 
             </View>
