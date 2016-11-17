@@ -6,3 +6,4 @@ Run npm i to install packages, then run project via react-native run-android (sh
 
 
 **Dont forget to run react-native link** after install
+**Also change "rnrf_boiler_latest" in the index.android.js file to what ever your project is named**
