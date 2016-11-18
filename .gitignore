@@ -40,13 +40,6 @@ buck-out/
 android/app/libs
 android/keystores/debug.keystore
 
-android
-ios
 node_modules
 typings
-.buckconfig
-.flowconfig
-.watchmanconfig
-tsconfig.json
-__tests__
 .vscode
