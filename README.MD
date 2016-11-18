@@ -8,7 +8,6 @@ This is a basic boiler plate for React Native using RNRF implementing tabs, and 
 
 - Clone or Download the project
 - npm install
-- react-native link
 
 **GOOD TO GO!**
 
