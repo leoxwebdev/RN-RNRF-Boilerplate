@@ -4,11 +4,11 @@ This is a basic boiler plate for React Native using RNRF implementing tabs, and 
 
 ## Installation
 
-Please do the following to use this project
-**
-1. Clone or Download the project
-2. npm install
-3. react-native link**
+###### Please do the following to use this project
+
+- Clone or Download the project
+- npm install
+- react-native link
 
 **GOOD TO GO!**
 
