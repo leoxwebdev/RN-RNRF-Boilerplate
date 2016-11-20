@@ -2,6 +2,8 @@
 
 This is a basic boiler plate for React Native using RNRF implementing tabs, and a drawer with a basic login / register module
 
+![](http://i.imgur.com/yuCdv0U.gif)
+
 ## Installation
 
 ###### Please do the following to use this project
